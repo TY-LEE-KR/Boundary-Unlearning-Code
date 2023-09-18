@@ -1,0 +1,14 @@
+shrink pgd weight:70.61s
+forget acc:3.80%, remain acc:79.67%, train forget acc:4.40%, train remain acc:97.22%
+
+shrink pgd curv:250.51s 
+forget acc:5.30%, remain acc:80.27%, train forget acc:7.06%, train remain acc:97.29%
+
+
+
+
+shrink fgsm weight:25.93s
+forget acc:8.20%, remain acc:81.50%, train forget acc:11.18%, train remain acc:98.68%
+
+shrink fgsm curv:214.5s
+forget acc:8.20%, remain acc:81.50%, train forget acc:11.18%, train remain acc:98.68%
