@@ -3,7 +3,7 @@
 ## Original Work
 Original Paper: "Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary" CVPR 2023
 
-[Paper](https://arxiv.org/abs/2303.11570, "paper link")
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Boundary_Unlearning_Rapid_Forgetting_of_Deep_Networks_via_Shifting_the_CVPR_2023_paper.pdf, "paper link")
 [Code](https://www.dropbox.com/s/bwu543qsdy4s32i/Boundary-Unlearning-Code.zip?dl=0, "code link")
 
 ## Requirements
