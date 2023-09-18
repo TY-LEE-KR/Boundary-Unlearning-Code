@@ -1,5 +1,9 @@
 # Boundary Unlearning
 
+## Original Work
+Original Paper: Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary 
+
+
 ## Requirements
 Name and versions of Libraries
 * python 3.8
